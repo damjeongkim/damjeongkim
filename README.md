@@ -14,7 +14,6 @@ Python을 기반으로 데이터를 탐색하고, 분석 결과를 이해하기 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### 📚 학습 및 성장
-- 약 6개월 과정의 데이터 분석 부트캠프 수료 예정
 - Python 기반 데이터 처리·탐색·시각화 학습 중
 - 실습과 개인 프로젝트를 통해 분석 과정을 기록하고 개선합니다.
 
